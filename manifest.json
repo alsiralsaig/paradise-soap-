@@ -1,0 +1,22 @@
+{
+  "name": "Paradise Soap - صابون برادايس",
+  "short_name": "Paradise Soap",
+  "description": "متجر صابون برادايس - صابون غسيل ورعاية شاملة في السودان",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d97706",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
